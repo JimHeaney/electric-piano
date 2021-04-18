@@ -7,6 +7,9 @@ The music can be played over the onboard speaker, or captured through the 3.5mm 
 
 This design is a modernization of [drj113's Stylophone design](https://www.instructables.com/A-Stylophone/)
 
+## Photos & Media
+Photos of the project can be found on my portfolio, [here](https://www.jim-heaney.com/electric-piano-soldering-kit.html).
+
 ## Current Release
 Version 1.0
 
